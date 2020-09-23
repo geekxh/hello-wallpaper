@@ -2,22 +2,339 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1ec64b-1c77-4c41-b05e-e19f4fd81e0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人物_People/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动漫_comic/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动物_Animals/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/历史_History/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/建筑_Architecture/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/旅行_Travel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/流行_Fashion/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/田径_Athletics/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/科技_Technology/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/纹理_Textures/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自然_Nature/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/艺术_Arts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/食物_Food/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/-9uqxFl5e2k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/05JEekp0tuA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0I60NGNaZ0Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0M2KYJZJtOc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0PCUxOEJ7uY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0RC0b0l3IbM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0e1LuqHHZwY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0eNtGDz8Ols.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0j7PNWEStkg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0leJ0IVC2EA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0s-m03pygdg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/0y4JMgl290w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/16m45zBafwc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/1FKq8P6PvRI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/1f2q4NMFYQw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/1mvRowZSXIk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/2BV6Mkctudg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/2LRg01saMjA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/2gTclp0JrZM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/2oHRhOre5mI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/2xzx-vL3Ba4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/32kf8KEMun4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/3BJnt99EZ40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/3WZfFRhRxXA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/3fJW_RuyW5I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/3vv1A8zNG9A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/4L7d57Q6Z7o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/5-LvA8P7pEs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/51QUGLV6En0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/52eyY8PDw0I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/5DOHuq-2yIk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/5bO0GYtsDDM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/63WNOHsB8vQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/6IXtyLaa7TA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/6MgS0ABarZU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/6tsIyDa7Hfg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/6xWeGLfEg84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/6zr9ctxTmUo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/78wJIu0Xr4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/7Cui0fxsMzQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/8Bygg6ZGAYo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/8o9Z5aRIHhU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/92kSQpMHT44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/96oddxihsfA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/9AjPn-m8O9c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/9G3vKHcJPAs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/9Vpf_PQxcKM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/9aZkkMUJAJU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/9rOcwgLaAT0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/AWMWcR3hQUg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/AbdEVE2my6c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Aca6sQjoddw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/BArWcH78kQ0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/BRyJHPCyBlw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/C6eovoS7gXo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/CA5mR_jecac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/CGyN5RQOkVA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/CwT6l21yjgA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/CzyDB-4EDOY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/DH5uag3E_SQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Da1F2k3BFeU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/DlU2Ww4jOB8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Dm9KCxJSECI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/E5zjehlPyGA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/E95Lpkg-bgc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/EGZAYd8ihLQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/EI2GEZeB5Lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/EIMb3Ee3TpA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/EMxgiUjNK0I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ERPsN9lddwY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ESD1gMHpCXQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/EtW1pySdHuo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/EyyE8RWR4XI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/F5OZu2qAbeE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/FI3uIPnOVeE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/FZJgcTYSlWc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/G4WL7mQuZ3w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/G5ZGHr3w4Bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/GdwGZbU8PgI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/GnWKTJlMYsQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Gp48TFXO8PA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/GqpKFPiq-9s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/HNlX7p_dn9Q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/HWynzrRToiw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/HXcXWDreX2Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Hd2T6EzW_2Q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/HsLiMwwIcC8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Hyac0DwU0z0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/HzCH2EUu8WI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/I8Y2XavQcDE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/IISHOV1Kuko.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/IM1F5onI_hA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/IQJlJ8rDblI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/IfzB2uhmlMk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/JBHfVpoK_oI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/JbaLeotaduc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Jq3YxzGagdU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/JxommF9q_0U.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/KAQPB2JR7j0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/KC5x7jyd33U.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/KnJKGaYwZY0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Ko6nTppsp1Q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Kz2h5U-vH2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/L-HhvkK7xrM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/LEDxfcjXhG0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/LTj309VlQag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/LqYrhUIJrbA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/M1qzNy25LuE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/MPkikdOx-yM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/MWONLUYP4QI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/N0nNg22bBDc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/NC7Wr-26vGY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Nj2xtmIVgd8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/NoBMLrm_4B8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Nv-rPPW_LBc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/NwL0fOM9EpE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Ny5PomADlgE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/O8oZEMoTBOU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/OPbsDy95hFw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/OrkEasJeY74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/OwsvmAr3PiE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/P3bsR8LAuas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/P8oqPW32fm0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/PG27jA0PAj4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/PLgRZYZTW1Q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/PTmrpv_2gUI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Pnwa6HeyrdE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Q1tiXZdnK0I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/QT1tnWcKCzI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/QbRbkNM4-kk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/RMUka1ErDos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/RQifojSgd2o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/RgNjJEpPkq4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/RhNbL3oiJPo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/SHP92MQiTS4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/SXBDOwZstwo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ShQ2fHkHVu8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/T-zKpuQ-Y_Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/TPFh5v5AMWo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/TSCmBAopokA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/TTz_H1FrdIc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/TobrQ6tcTsI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/UEKeq_OO8Mo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/V7zv8yAynH8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/VCjhp_UHk2w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/VEnoclAP4EY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/VSon4X_wlfM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/VUj50kNYSZw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/VVTIJKZDuqM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Vrvf37yvf-g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/WKIRpKrppi4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Wqo3qM-F6p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/X1TnJ2JPuT0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/X5eyLExATQ8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/XhtkCHAQMi8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/XvDB38hvoVo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/YEwxD1D9yc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/YI88Cc8Qtys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/YVhSmMdTaOE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/YoDlrVtyl6o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/YpkZv0uTGY8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/YtS8LhIDB5g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ZAzrYwYS6cM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ZD20Rpu8xY0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Z_0GnQSyloo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/Zcbb1cm43SA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_0B-gHH4Nso.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_6D4dDeNI-M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_A-Jqf8I6SE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_RSrdnduZoY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_VnJ6i1UPQs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_eW3r7HPI8o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_ey5lSgfBDs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_jTdpTJbcM4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_jpJGxI3r5s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/_qYSD6TF0sE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/aAL_iDu-ZlA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ac9BZlaKuG4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/afc1IxR-xSQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/bhrMmRtTj1g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/bi5XqAMxD3o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/bpXzX6z7AGE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/bqyrVuu7X_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/c7pFlsT4J1w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/cHqzh_McpYg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/cSCV2ManpuI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/cYZY5slt8bU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ceFSmaA206w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ciGdq28feDA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/cqw1abc7tIE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/cz2v3NQW3wE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/dFDfZWXSyOo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/dGlDamEqH80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/dKxY8ywc_0c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/dRRkosZxX-Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/dUpeWUph7oE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/dogm06Z3Owc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/dwKiHoqqxk8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/e0-_RSerw7Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/e5388vfxA_E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/e8R5ATqC8-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/eDR_AZhBUPk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/eRuKCUDEtjU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/eTgmi0btvrc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/eUonsPYgnZw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/eXBqaHUt994.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/elFTYCeIJ_I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/erh5-D3yTRo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/fBE4_FWc568.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/fM83S5zWW8g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/fWlhT8xT_74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/flAAA50RwEc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/frCSu-B5Mxg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/g93nFxLQddg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/gVrzRN5q9Ww.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/gj6keK1vMCs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/gjMY2lRpBaY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/gpBLuypp0dQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/gsjUY9US-aA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/heGqS48LW9g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/hlSaKXmNOj4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/hmALOf4vVYE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/hqBaAFYXhPg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/i1mahOiL4FQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/i4IGqr0z-ks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/i4wulvZa7Mo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/iBRZ9KUn-h4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/iHvSuG7TQ1I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/iPr2ossBqsA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/iYgiHI36Xv8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/i_f6r_uGkdE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ikY3Q19Wmx8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/iwTY6AV_Dpc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/jCTo3MAtzjA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/jHgjg6G9rNE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/jS_0_zsOyKA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/k7GEqhLVV7g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/kKQIo_wBC3M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/kOjfvm1lmVA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/kS_mT2s7BrA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/komCkuont3Q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/kv7EN1_4Tq4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/lLIvqK_RfZ8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/lbb49UtvHlg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ly-UOhDx8c0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/mO8PXc2PItc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/mTf62ginpAs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/mXErf7IekDQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/me9OMNmmu1g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/moLnOQ68bik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/n_gyHfFhc8c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/oRKF_ZBJYGM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/oxBnmHyWlQg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pIZWqzcB--A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pLvaikQ6dSQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pN1syoo3wOs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pQGOKL2ZQ5k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pSjFE8EJ1dw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pgW6t4lpEnI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/ph5Z0MOV5Zg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pm0tuojODh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pp1PWKE2G8I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/pqfq78gj7vs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/q5o-u2L2LZw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/qBquBZ9GO9I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/qURGLVHMcEs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/qzg3GtdJtAM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/rjTHXFl6ltw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/rjosot1WC6k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/rskP7ggJg54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/sI13JLf2hB4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/sV0KXYrb-5s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/sZlQ7qqGJwg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/seEZIr1sIaA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/sySNqI_5Fwg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/t74oFPTXzqs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/tBAMSkmxk_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/tGFxSUHySxk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/tJDkKDYmV-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/tOrJMH08lmg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/t_KtrnXqkJM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/tg5Sop46ywY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/tkNc3N7UBh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/u9UQcgCVtPU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/uRuPYB0P8to.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/uVubUaWJ_rk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/uXe_VWS9_Sw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/us5jmqSK6WM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/v0oGil8kPsc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/v7BDQC-Byak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/vHh3eRXECXs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/vSMo58Tn4SQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/vlAP-gHWzFE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/vvvBtKkwOFY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/vzU947xAzwM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wAG2245jIHU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wGu4zNKXQyU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wIAlNHwh6fE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wL6-1GhFHb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wM7IufmCeeM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wNDuDOqg2jU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wO3VZr-IfQA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wPiCC_66m3U.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wTqOhTacNUg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wiFOaBrX_wc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wt8MzAaAGlM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wtNA-zf_nVU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/wyI1e5VM96o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/x5Mx6MGQGX8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/xEllvrQimIc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/xHfWl35OOsg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/xSewKu-hfbw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/xfKj435Z9rI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/y-i8LlvKUTs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/yD6NKINirFY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/yF9yF94sLoM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/yHYlLWRZdbA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手机_Phone/z7ZrV-0Ba_k.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/人物_People/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/人物_People/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动漫_comic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/动漫_Comic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动物_Animals/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/动物_Animals/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/历史_History/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/历史_History/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/建筑_Architecture/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/建筑_Architecture/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/旅行_Travel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/旅行_Travel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流行_Fashion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/流行_Fashion/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/田径_Athletics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/田径_Athletics/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/科技_Technology/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/科技_Technology/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/纹理_Textures/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/纹理_Textures/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/自然_Nature/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/自然_Nature/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/艺术_Arts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/艺术_Arts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/食物_Food/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/壁纸_Wallpapaer/食物_Food/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,151 +344,8 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/历史_History/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="10" selection-start-column="10" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/建筑_Architecture/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="15" selection-start-column="15" selection-end-column="15" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/旅行_Travel/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="9" selection-start-column="9" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流行_Fashion/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="10" selection-start-column="10" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/田径_Athletics/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="12" selection-start-column="12" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/科技_Technology/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="13" selection-start-column="13" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/纹理_Textures/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="11" selection-start-column="11" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/自然_Nature/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="7" selection-start-column="7" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/食物_Food/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="7" selection-start-column="7" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/艺术_Arts/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="9" lean-forward="true" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/1.txt" />
-        <option value="$PROJECT_DIR$/人物_People/README.md" />
-        <option value="$PROJECT_DIR$/动漫_comic/README.md" />
-        <option value="$PROJECT_DIR$/动物_Animals/README.md" />
-        <option value="$PROJECT_DIR$/历史_History/README.md" />
-        <option value="$PROJECT_DIR$/建筑_Architecture/README.md" />
-        <option value="$PROJECT_DIR$/旅行_Travel/README.md" />
-        <option value="$PROJECT_DIR$/流行_Fashion/README.md" />
-        <option value="$PROJECT_DIR$/田径_Athletics/README.md" />
-        <option value="$PROJECT_DIR$/科技_Technology/README.md" />
-        <option value="$PROJECT_DIR$/纹理_Textures/README.md" />
-        <option value="$PROJECT_DIR$/自然_Nature/README.md" />
-        <option value="$PROJECT_DIR$/食物_Food/README.md" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -197,123 +371,41 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1395" />
-    <option name="y" value="268" />
-    <option name="width" value="1400" />
-    <option name="height" value="1228" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="人物_People" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="动漫_comic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="动物_Animals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="历史_History" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="建筑_Architecture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="旅行_Travel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="流行_Fashion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="田径_Athletics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="科技_Technology" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="纹理_Textures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="自然_Nature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="艺术_Arts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fucking-4k-wallpaper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fucking-4k-wallpaper" type="462c0819:PsiDirectoryNode" />
-              <item name="食物_Food" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1hthpsL7lCluKVnGAtsdoxg7ARC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/食物_Food" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/竖版_Vertical" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Config/Node/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/壁纸" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/竖版_Vertical" />
       <recent name="E:\gzh\fucking-4k-wallpaper\食物_Food" />
       <recent name="E:\gzh\fucking-4k-wallpaper\艺术_Arts" />
       <recent name="E:\gzh\fucking-4k-wallpaper\自然_Nature" />
       <recent name="E:\gzh\fucking-4k-wallpaper\纹理_Textures" />
-      <recent name="E:\gzh\fucking-4k-wallpaper\科技_Technology" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -328,188 +420,12 @@
       <option name="presentableId" value="Default" />
       <updated>1598281733500</updated>
       <workItem from="1598281734707" duration="753000" />
+      <workItem from="1600836484438" duration="2178000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="753000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1395" y="268" width="1400" height="1228" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/人物_People/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="9" selection-start-column="9" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动漫_comic/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="8" selection-start-column="8" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动物_Animals/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/历史_History/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/建筑_Architecture/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="15" selection-start-column="15" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/旅行_Travel/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="9" selection-start-column="9" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流行_Fashion/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/田径_Athletics/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="12" selection-start-column="12" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/科技_Technology/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="13" selection-start-column="13" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/纹理_Textures/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="11" selection-start-column="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/艺术_Arts/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="9" lean-forward="true" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自然_Nature/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/食物_Food/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
