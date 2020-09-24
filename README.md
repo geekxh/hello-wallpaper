@@ -23,20 +23,20 @@
 
 #### 精美
 
-<img src="https://www.geekxh.com/w2.png">
+<img src="https://www.geekxh.com/w22.png">
 
 #### 风景
 
-<img src="https://www.geekxh.com/w3.png">
+<img src="https://www.geekxh.com/w33.png">
 
 #### 动漫
 
-<img src="https://www.geekxh.com/w4.png">
+<img src="https://www.geekxh.com/w44.png">
 
 #### 美女
 
-<img src="https://www.geekxh.com/w5.png">
+<img src="https://www.geekxh.com/w55.png">
 
 #### 科幻
 
-<img src="https://www.geekxh.com/w6.png">
+<img src="https://www.geekxh.com/w66.png">
