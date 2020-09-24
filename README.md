@@ -16,24 +16,24 @@
 
 ### 内容介绍
 
-<img src="https://www.geekxh.com/w1.png" width="300px">
+<img src="https://www.geekxh.com/w1.png">
 
 #### 精美
 
-<img src="https://www.geekxh.com/w2.png" width="300px">
+<img src="https://www.geekxh.com/w2.png">
 
 #### 风景
 
-<img src="https://www.geekxh.com/w3.png" width="300px">
+<img src="https://www.geekxh.com/w3.png">
 
 #### 动漫
 
-<img src="https://www.geekxh.com/w4.png" width="300px">
+<img src="https://www.geekxh.com/w4.png">
 
 #### 美女
 
-<img src="https://www.geekxh.com/w5.png" width="300px">
+<img src="https://www.geekxh.com/w5.png">
 
 #### 科幻
 
-<img src="https://www.geekxh.com/w6.png" width="300px">
+<img src="https://www.geekxh.com/w6.png">
