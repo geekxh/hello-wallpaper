@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1ec64b-1c77-4c41-b05e-e19f4fd81e0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,7 @@
       <updated>1598281733500</updated>
       <workItem from="1598281734707" duration="753000" />
       <workItem from="1600836484438" duration="7729000" />
-      <workItem from="1600851096493" duration="1244000" />
+      <workItem from="1600851096493" duration="1531000" />
     </task>
     <task id="LOCAL-00001" summary="初始化手机壁纸">
       <created>1600842167457</created>
