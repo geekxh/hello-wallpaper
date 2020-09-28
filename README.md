@@ -28,14 +28,6 @@
 
 <img src="https://www.geekxh.com/w33.png">
 
-#### 动漫
-
-<img src="https://www.geekxh.com/w44.png">
-
 #### 美女
 
 <img src="https://www.geekxh.com/w55.png">
-
-#### 科幻
-
-<img src="https://www.geekxh.com/w66.png">
