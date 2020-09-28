@@ -10,7 +10,7 @@
 
 ### 下载方式
 
-> 下方扫码，回复【500】即可下载。下载前先给本项目点个 star ，支持一下！
+> 下方扫码，回复【500】即可下载 10000 张高清壁纸。下载前先给本项目点个 star ，支持一下！
 
 <div align="center">
     <img src="https://www.geekxh.com/code.jpg" width="300px">
